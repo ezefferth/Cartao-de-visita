@@ -2,9 +2,9 @@ import React from "react";
 import './email.css';
 
 import EmailIcon from "../imagens/email.png";
-
+//const email = 'ezefferth96@gmail.com'
 function Email() {
-  function Icon(){
+  function Icon() {
     alert("ezefferth96@gmail.com");
   }
   return (
